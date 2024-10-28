@@ -1,0 +1,8 @@
+At this time, with the feature set that exists, other than Google Play Store's meta data associated with installing any app, there's no reason any of the data you have in this app will leave your device.
+This app does not directly access any network resources, and does not have any ability to send data to any other device or service. The app does not have any ability to access any data on your device other than the data you provide to it.
+The only internet related functions are links (which opens your browser):
+-to the developer's bug tracking page on github, so you can provide feedback if you wish.
+-to the developer's 'buy me a coffee' page, if you wish to support the developer.
+-to a couple Numerology books on amazon.
+All data in the app is stored locally on your device. The app does not have any network connectivity, and does not have any ability to send data to any other device or service. The app does not have any ability to access any data on your device other than the data you provide to it.
+
